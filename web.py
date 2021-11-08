@@ -1,3 +1,9 @@
+# Flask Mega-Tutorial
+# Parts 1-12 of 23
+
+# Uses SQLite database
+# Uses Werkzeug for password security
+
 from app import app, db
 from app.models import User, Post
 
